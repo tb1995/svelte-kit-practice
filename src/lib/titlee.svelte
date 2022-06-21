@@ -1,5 +1,5 @@
 <script>
-    let title='sample ';
+    export let title='sample ';
 </script>
 <div class="sample">
     <img src="/controller.svg" alt="controller" />
