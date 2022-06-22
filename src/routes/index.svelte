@@ -1,6 +1,4 @@
 <script>
-    
-
     let text = 'Lorem Ipsum Text Generator';
     
     const changeTitle = () =>
@@ -8,8 +6,6 @@
         text = 'random text generator';
     }
 </script>
-
-
 
 <div class="index">
 
@@ -56,5 +52,6 @@
         padding:10px;
         border: 1px dotted red;
     }
+
 
 </style>

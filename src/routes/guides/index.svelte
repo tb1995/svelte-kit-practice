@@ -1,8 +1,8 @@
 <div class="guides">
 
     <ul>
-        <li><a href="/">Guide 1</a></li>
-        <li><a href="/">Guide 2</a></li>
+        <li><a href="/">Guide 1 (Home)</a></li>
+        <li><a href="/about">Guide 2 (About)</a></li>
     </ul>
 </div>
 
@@ -23,5 +23,6 @@
         padding:10px;
         border: 1px dotted red;
     }
+
 </style>
 
